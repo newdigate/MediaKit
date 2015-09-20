@@ -17,21 +17,40 @@
     - CEF3-based application shell for Brackets
         - https://github.com/adobe/brackets-shell  
         - http://brackets.io
+    - Native Abstractions for Node.js
+        - https://github.com/nodejs/nan
+        - Node Native examples
+            - https://github.com/nodejs/node-addon-examples
     - interoperability between javascript in browser view and native code
         - https://bitbucket.org/chromiumembedded/cef/wiki/JavaScriptIntegration 
 - V8 
     - Javascript engine from google
     - https://code.google.com/p/v8/
     - https://developers.google.com/v8/embed
+    - A set of introductory tutorials for v8 javascript engine 
+        - http://underscorediscovery.com
+        - https://github.com/underscorediscovery/v8-tutorials
 - C8 
     - MACOSX: A bridge between Objective-C and Google's V8 Javascript engine  
-    - Somewhat outdated but still useful as a reference
+    - Somewhat outdated but still useful as a reference, 
+        - this might help https://strongloop.com/strongblog/node-js-v0-12-c-apis-breaking/
     - https://github.com/Grayson/c8
 - FreeFrameGL 
     - http://freeframe.sourceforge.net/
 - Syphon (inter-application frame sharing libraries)
     - http://syphon.v002.info/
-
+- audio DSP code processing via Javascript - JSDSP
+    - https://github.com/daniel-bytes/JSDSP
+    - Exposes audio dsp object model to javascript via v8 library
+- FreeJ
+    - Free Vision Mixer implemented in c++
+    - https://github.com/jaromil/FreeJ
+- JUCE c++ apis
+    - https://github.com/julianstorer/JUCE 
+- Maximilian 
+    - C++ Audio and Music DSP Library
+    - https://github.com/micknoise/Maximilian
+    - http://www.maximilian.strangeloop.co.uk
  
 ###### Media Document Object Model (MDOM)
  - Describes an acyclic graph of interconnected media components, and the properties of each component.
