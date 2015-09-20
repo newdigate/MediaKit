@@ -22,7 +22,9 @@
         - Node Native examples
             - https://github.com/nodejs/node-addon-examples
     - interoperability between javascript in browser view and native code
-        - https://bitbucket.org/chromiumembedded/cef/wiki/JavaScriptIntegration 
+        - https://bitbucket.org/chromiumembedded/cef/wiki/JavaScriptIntegration
+    - CEF3 Sample application: 
+        - https://github.com/acristoffers/CEF3SimpleSample
 - V8 
     - Javascript engine from google
     - https://code.google.com/p/v8/
@@ -30,8 +32,12 @@
     - A set of introductory tutorials for v8 javascript engine 
         - http://underscorediscovery.com
         - https://github.com/underscorediscovery/v8-tutorials
+- Node Core Audio
+    - Bindings for PortAudio giving JavaScript access to sound card samples
+    - https://github.com/ZECTBynmo/node-core-audio
 - C8 
-    - MACOSX: A bridge between Objective-C and Google's V8 Javascript engine  
+    - MAC OSX: 
+    - A bridge between Objective-C and Google's V8 Javascript engine  
     - Somewhat outdated but still useful as a reference, 
         - this might help https://strongloop.com/strongblog/node-js-v0-12-c-apis-breaking/
     - https://github.com/Grayson/c8
