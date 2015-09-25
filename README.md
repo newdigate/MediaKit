@@ -8,6 +8,22 @@
  - to organise and store research notes and links useful projects
  - to provide a set of necessary proof-of-concepts
 
+##### Prototype Application
+ - Application 1
+    - Use Node-webkit to create HTML5 desktop application (https://github.com/nwjs/nw.js)
+        - Html Button calls Node.JS function
+ - Application 2
+    - Primary window used for editing global js script 
+        - CodeMirror (https://github.com/codemirror/codemirror)
+        - Highlight (https://github.com/isagalaev/highlight.js)
+    - Script should be able to call Node.JS function
+    - Run script from Application Menu
+- Application 3
+    - consider using a multiple document tabbed interface ...?
+        - Solution/project explorer style
+            - adobe brackets (https://github.com/adobe/brackets)
+            - http://jbaron.github.io/cats/ 
+ 
 ###### Reference projects 
 - Chromium / Chromium Embedded Framework CEF
     - Chromium 
