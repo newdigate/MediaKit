@@ -69,6 +69,8 @@
     - https://github.com/jaromil/FreeJ
 - JUCE c++ apis
     - https://github.com/julianstorer/JUCE 
+- Cinder
+    - https://github.com/cinder/Cinder
 - Maximilian 
     - C++ Audio and Music DSP Library
     - https://github.com/micknoise/Maximilian
